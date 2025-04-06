@@ -1,0 +1,70 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+ipch/
+*.sdf
+*.opensdf
+*.cache
+*.db
+*.pdb
+*.log
+
+# Visual Studio files
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Auto-generated files
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipch
+
+# Executables
+*.exe
+*.dll
+*.lib
+
+# Debug and release folders
+Debug/
+Release/
+x64/
+x86/
+*.iobj
+*.ipdb
+
+# Crash dumps
+*.mdmp
+
+# Directories from OneDrive / Dropbox sync (optional)
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# CMake / CMake Cache (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Git files
+*.orig
+*.rej
+
+# Ignore test / junk data
+*.old
+*.backup
+*.bak
+*.tmp
+*.swp
+
+# Ignore LFS files if not using Git LFS
+*.iso
+*.zip
+*.tar.gz
+*.7z
